@@ -15,7 +15,7 @@ You can install these modules using the command pip. example: pip install numpy
 python, jupyter
 
 ## Author
-Floyd
+Anjali
 
 ## Acknowledgments
 Learnt Simple Linear Regression from Excelr.
